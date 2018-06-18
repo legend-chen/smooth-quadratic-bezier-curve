@@ -1,10 +1,15 @@
+<!--from https://github.com/legend-chen/smooth-quadratic-bezier-curve-->
+# quadratic-bezier-curve 2016.12
+A useful mathematical algorithm practice coded by Legend Chen. 
+[online here](https://legend-chen.github.io/smooth-quadratic-bezier-curve/bin/demo.html) 
 
-# quadratic-bezier-curve-length 2016.12
+### notes:
+Step.1: evaluate bezier-curve length by Simpson's rules.
 
-A mathematical demo coded by Legend Chen
+Step.2: position evenly arranged points on bezier-curve by Newton's method.
 
-1、Calculating a precise length of bezier-curve by Simpson's rules. <br/>
-2、Smoothing points on bezier-curve by Newton's method.
 
-<img align="left" src="demo (2).png" />
-<img align="left" src="demo (3).png" />
+### snapshots:
+<img src="demo (2).png" />
+<img src="demo (3).png" />
+
