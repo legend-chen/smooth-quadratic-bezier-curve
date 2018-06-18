@@ -1,5 +1,5 @@
 <!--from https://github.com/legend-chen/smooth-quadratic-bezier-curve-->
-# quadratic-bezier-curve 2016.12
+# cubic-bezier-curve 2016.12
 A useful mathematical algorithm practice coded by Legend Chen. 
 [online here](https://legend-chen.github.io/smooth-quadratic-bezier-curve/bin/demo.html) 
 
